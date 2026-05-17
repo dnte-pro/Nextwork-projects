@@ -4,8 +4,6 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-vpc)
 
-**Author:** Kiprono Yegon  
-**Email:** kipronoyegon50@gmail.com
 
 ---
 

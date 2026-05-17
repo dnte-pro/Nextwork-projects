@@ -4,9 +4,6 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-security)
 
-**Author:** Kiprono Yegon  
-**Email:** kipronoyegon50@gmail.com
-
 ---
 
 ## VPC Traffic Flow and Security

@@ -4,9 +4,6 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-ec2)
 
-**Author:** Kiprono Yegon  
-**Email:** kipronoyegon50@gmail.com
-
 ---
 
 ## Launching VPC Resources
