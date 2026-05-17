@@ -7,5 +7,4 @@ Contents:
 - DevSecOps exercises: security scanning, vulnerability remediation, secure pipeline practices, secrets management, and compliance checks.
 
 Each project folder includes setup instructions, configuration files, and notes from the exercises.
-# Nextwork-projects
 
